@@ -18,7 +18,7 @@ using System.Reflection;
     "e facilitar o acompanhamento de processamentos, retorns e erros de forma clara e" +
     " objetiva.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0.0+9818760dba3b7d75d20ccd2057bc11360708015e")]
 [assembly: System.Reflection.AssemblyProductAttribute("RysePackage.Complex")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RysePackage.Complex")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
