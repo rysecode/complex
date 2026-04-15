@@ -1,0 +1,13 @@
+L:\Projetos\RYSECODE\packages\RysePack\Complex\src\bin\Release\net10.0\RysePackage.Complex.deps.json
+L:\Projetos\RYSECODE\packages\RysePack\Complex\src\bin\Release\net10.0\RysePackage.Complex.dll
+L:\Projetos\RYSECODE\packages\RysePack\Complex\src\bin\Release\net10.0\RysePackage.Complex.pdb
+L:\Projetos\RYSECODE\packages\RysePack\Complex\src\obj\Release\net10.0\Complex.csproj.AssemblyReference.cache
+L:\Projetos\RYSECODE\packages\RysePack\Complex\src\obj\Release\net10.0\Complex.GeneratedMSBuildEditorConfig.editorconfig
+L:\Projetos\RYSECODE\packages\RysePack\Complex\src\obj\Release\net10.0\Complex.AssemblyInfoInputs.cache
+L:\Projetos\RYSECODE\packages\RysePack\Complex\src\obj\Release\net10.0\Complex.AssemblyInfo.cs
+L:\Projetos\RYSECODE\packages\RysePack\Complex\src\obj\Release\net10.0\Complex.csproj.CoreCompileInputs.cache
+L:\Projetos\RYSECODE\packages\RysePack\Complex\src\obj\Release\net10.0\RysePackage.Complex.dll
+L:\Projetos\RYSECODE\packages\RysePack\Complex\src\obj\Release\net10.0\refint\RysePackage.Complex.dll
+L:\Projetos\RYSECODE\packages\RysePack\Complex\src\obj\Release\net10.0\RysePackage.Complex.pdb
+L:\Projetos\RYSECODE\packages\RysePack\Complex\src\obj\Release\net10.0\ref\RysePackage.Complex.dll
+L:\Projetos\RYSECODE\packages\RysePack\Complex\src\obj\Release\net10.0\Complex.sourcelink.json
